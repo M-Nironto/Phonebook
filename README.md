@@ -48,5 +48,5 @@ Group: Friends
 Contact added successfully!
 
 
-🤝 Contribution
+## 🤝 Contribution
 Feel free to fork and improve the project! Pull requests are welcome.
